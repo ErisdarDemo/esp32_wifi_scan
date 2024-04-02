@@ -923,3 +923,15 @@
 75081	75370	7337675586710390	C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/scan/build/.bin_timestamp	6204c477e5b05723
 75372	75460	0	esp-idf/esptool_py/CMakeFiles/app_check_size	46142a23322c1a3
 75372	75460	0	C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/scan/build/esp-idf/esptool_py/CMakeFiles/app_check_size	46142a23322c1a3
+136	289	0	esp-idf/esptool_py/CMakeFiles/app_check_size	46142a23322c1a3
+136	289	0	C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/scan/build/esp-idf/esptool_py/CMakeFiles/app_check_size	46142a23322c1a3
+125	414	7337675240633923	bootloader-prefix/src/bootloader-stamp/bootloader-build	f757785951471435
+125	414	7337675240633923	bootloader/bootloader.elf	f757785951471435
+125	414	7337675240633923	bootloader/bootloader.bin	f757785951471435
+125	414	7337675240633923	bootloader/bootloader.map	f757785951471435
+125	414	7337675240633923	C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/scan/build/bootloader-prefix/src/bootloader-stamp/bootloader-build	f757785951471435
+125	414	7337675240633923	C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/scan/build/bootloader/bootloader.elf	f757785951471435
+125	414	7337675240633923	C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/scan/build/bootloader/bootloader.bin	f757785951471435
+125	414	7337675240633923	C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/scan/build/bootloader/bootloader.map	f757785951471435
+415	15757	0	CMakeFiles/flash	dc7f2f218f324a33
+415	15757	0	C:/Users/jreina/Documents/MyWorkspaces/Espressif_WiFi/scan/build/CMakeFiles/flash	dc7f2f218f324a33
